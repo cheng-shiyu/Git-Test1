@@ -4,7 +4,7 @@
  */
 public class Demo01 {
     public static void main(String[] args) {
-        System.out.println("ggogogogo");
+        System.out.println("狗狗狗狗欧冠深度");
         System.out.println("执行了把");
     }
 }
